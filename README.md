@@ -66,7 +66,9 @@ Based on the analysis and model results, the following recommendations are made:
 This project demonstrates the application of data analysis and machine learning techniques to understand and predict customer churn in the telecom industry. The insights and models developed can help the company improve customer retention and satisfaction.
 
 ## Author
-@huixincai @rafaelperez @yezawei @khollah1 @whisperfool
+@huixincai  https://youtu.be/JhvfJYfjZuI
+
+@rafaelperez @yezawei @khollah1 @whisperfool
 
 ## Technologies Used
 - Python
